@@ -1,7 +1,13 @@
 # All-the-sites
 https://armenter66.github.io/React-Project/
 
+http://www.papacar-service.com.ua/
+
 https://barberserg.com.ua/
+
+https://swimbydi.com
+
+https://ete.net.ua/
 
 https://intraflooring.com/
 
@@ -13,19 +19,9 @@ https://trinovation.co
 
 http://clear-solutions.ltd/
 
-https://martin.co.ua
-
 http://ukr-shlyahbud.com
 
-http://f0581585.xsph.ru/
-
-https://martin.su
-
-https://ete.net.ua/
-
 http://moonsuit.shop/
-
-https://swimbydi.com
 
 www.voltageg.com
 
