@@ -1,6 +1,4 @@
 # All-the-sites
-https://armenter66.github.io/React-Project/
-
 http://www.papacar-service.com.ua/
 
 https://barberserg.com.ua/
@@ -25,4 +23,12 @@ http://moonsuit.shop/
 
 www.voltageg.com
 
-https://armenter66.github.io/dist/
+https://legendary-moonbeam-7f4625.netlify.app/
+
+https://armenter66.github.io/React-Project/
+
+https://armenter66.github.io/About-Me/dist/
+
+https://genuine-otter-7c6ef3.netlify.app/
+
+https://app.netlify.com/teams/armenter66/overview
