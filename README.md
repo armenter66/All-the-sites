@@ -1,5 +1,14 @@
-# All-the-sites
+https://mces.com.ua/
+
+https://gohard.com.ua
+
+https://www.quppy.email/
+
+https://quppy.com/
+
 http://www.papacar-service.com.ua/
+
+http://www.pastryshop.com.ua/
 
 https://barberserg.com.ua/
 
@@ -17,9 +26,9 @@ https://trinovation.co
 
 http://clear-solutions.ltd/
 
-http://ukr-shlyahbud.com
-
 http://moonsuit.shop/
+
+https://tms.adart.digital/
 
 www.voltageg.com
 
