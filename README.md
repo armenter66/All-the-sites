@@ -1,10 +1,19 @@
+
+https://quppytravel.com/
+
+https://vertexhub.online/
+
+https://quppyaml.com/
+
+https://www.metronom.ua/
+
+https://2payapp.com/
+
 https://mces.com.ua/
 
 https://gohard.com.ua
 
-https://www.quppy.email/
-
-https://quppy.com/
+https://support.quppy.com/hc/en-us
 
 http://www.papacar-service.com.ua/
 
@@ -41,3 +50,6 @@ https://armenter66.github.io/About-Me/dist/
 https://genuine-otter-7c6ef3.netlify.app/
 
 https://app.netlify.com/teams/armenter66/overview
+
+Верстка:
+https://github.com/armenter66?tab=repositories
