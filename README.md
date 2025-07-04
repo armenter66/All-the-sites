@@ -1,5 +1,5 @@
 
-[https://quppytravel.com/
+https://quppytravel.com/
 
 https://vertexhub.online/
 
@@ -137,4 +137,4 @@ https://genuine-otter-7c6ef3.netlify.app/
 https://app.netlify.com/teams/armenter66/overview
 
 Верстка:
-https://github.com/armenter66?tab=repositories)
+https://github.com/armenter66?tab=repositories
